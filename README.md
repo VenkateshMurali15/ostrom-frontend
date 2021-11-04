@@ -42,24 +42,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
  React Js has been used in this project
 
-### Packages Used:
-## Ant Desgin Library Used
+## Packages Used:
+### Ant Desgin Library Used
 
 I've used Antd library for components like Table, Modal, Typography and Button.
 
-## React-JSS
+### React-JSS
 
 I've used React Jss Library for CSS and customizing the Antd Components to match the design
 
-## Axios
+### Axios
 
 Axios Library has been used to make API calls
 
-## Moment
+### Moment
 
 Moment has been used for formating the date.
 
-### Logics:
+# Logics:
 
 ## Home Page
 I'm fetching the list of all students whenever the Home component is mounted from the endpoint. 
